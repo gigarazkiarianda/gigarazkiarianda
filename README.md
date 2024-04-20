@@ -1,4 +1,5 @@
-![Banner gigarazkiarianda Github](https://github.com/gigarazkiarianda/gigarazkiarianda/assets/75737741/3d5e6cea-c408-4e46-8123-91c680b57e86)
+![Banner Itsmerazk Github](https://github.com/gigarazkiarianda/gigarazkiarianda/assets/75737741/77892912-2585-4b7a-bb5d-43790aa54dc8)
+
 
 
 * 🎓 Currently I'm a fresh graduate at Dinamika University, majoring in Computer Engineering.
