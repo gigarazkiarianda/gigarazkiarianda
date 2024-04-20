@@ -13,8 +13,8 @@
 
 
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmerazk&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="gigarazkiarianda's Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmerazk&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=6" alt="gigarazkiarianda's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=gigarazkiarianda&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="gigarazkiarianda's Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigarazkiarianda&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=6" alt="gigarazkiarianda's Top Languages">
 
   
 </p>
