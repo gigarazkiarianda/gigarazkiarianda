@@ -2,7 +2,7 @@
 
 
 
-* 🎓 Currently I'm a fresh graduate at Dinamika University, majoring in Computer Engineering.
+* 🎓 Currently I'm a AI Engineer Intern in PT Salam Pacific Indonesia Lines.
 * 👀 I’m interested in Data Scientist, Artificial Intelligence, Web Developer, Mobile Developer, and Game Developer
 * 🌱 I’m currently learning Frontend Developer, Artificial Intelligence, and Mobile Developer.
 * 👨‍💻 All of my projects are available at (link coming soon)
@@ -22,7 +22,7 @@
 
 ## Hai My name's Giga Razki Arianda 
 
-In the future I want to become a software engineer, but currently I am still focused on front end developer and machine learning engineer. have great curiosity, can adapt, collaborate, work in a team and be able to solve problems. The languages ​​that are often used are Python for the field of Artificial Intelligence and ReactJS or React Native for website or mobile development.
+In the future I want to become a AI Engineer. have great curiosity, can adapt, collaborate, work in a team and be able to solve problems. The languages ​​that are often used are Python for the field of Artificial Intelligence and ReactJS or React Native for website or mobile development.
 
 <p align="center">My Workspace</p>
 <p >
