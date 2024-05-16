@@ -22,7 +22,7 @@
 
 ## Hai My name's Giga Razki Arianda 
 
-In the future I want to become a AI Engineer. have great curiosity, can adapt, collaborate, work in a team and be able to solve problems. The languages ​​that are often used are Python for the field of Artificial Intelligence and ReactJS or React Native for website or mobile development.
+In the future I want to become a Software & Artificial Intelligence Engineer. have great curiosity, can adapt, collaborate, work in a team and be able to solve problems. The languages ​​that are often used are Python for the field of Artificial Intelligence and ReactJS or React Native for website or mobile development.
 
 <p align="center">My Workspace</p>
 <p >
