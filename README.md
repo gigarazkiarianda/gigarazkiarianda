@@ -1,4 +1,4 @@
-![Banner Itsmerazk Github](https://github.com/gigarazkiarianda/gigarazkiarianda/assets/75737741/77892912-2585-4b7a-bb5d-43790aa54dc8)
+![Banner - Giga Razki Arianda](https://github.com/gigarazkiarianda/gigarazkiarianda/assets/75737741/0f107bc3-d5ce-4a8a-9d85-04b67c0c0cae)
 
 
 
