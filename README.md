@@ -2,7 +2,6 @@
 
 
 
-* 🎓 Currently I'm a Ex AI Engineer Intern in PT Salam Pacific Indonesia Lines.
 * 👀 I’m interested in Data Scientist, Artificial Intelligence, Web Developer, Mobile Developer, and Game Developer
 * 🌱 I’m currently learning Frontend Developer, Artificial Intelligence, and Mobile Developer.
 * 📫 Business Inquires razkigiga@gmail.com
