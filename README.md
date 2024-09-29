@@ -5,7 +5,7 @@
 * 👀 I’m interested in Data Scientist, Artificial Intelligence, Web Developer, Mobile Developer, and Game Developer
 * 🌱 I’m currently learning Frontend Developer, Artificial Intelligence, and Mobile Developer.
 * 📫 Business Inquires razkigiga@gmail.com
-* 🌍 my personal website https://gigarazki.vercel.app
+* 🌍 my personal website https://gigarazkiarianda.com
 
 
 
