@@ -39,7 +39,7 @@ In the future I want to become a Software & Artificial Intelligence Engineer. ha
   </table>
 </p>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=gigarazkiarianda)](https://git.io/streak-stats)
 
                                                                                          
 💻 Tech Stack 
