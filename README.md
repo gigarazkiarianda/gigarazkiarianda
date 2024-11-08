@@ -40,7 +40,7 @@ In the future I want to become a Software & Artificial Intelligence Engineer. ha
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gigarazkiarianda&theme=vue-dark&hide_border=true" alt="gigarazkiarianda's Streak">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=gigarazkiarianda1&theme=dark)](https://git.io/streak-stats)
 </p>
 
                                                                                          
