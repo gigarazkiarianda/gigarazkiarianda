@@ -39,9 +39,12 @@ In the future I want to become a Software & Artificial Intelligence Engineer. ha
   </table>
 </p>
 
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=gigarazkiarianda1&theme=dark)](https://git.io/streak-stats)
-</p>
+<a href="https://github.com/gigarazkiarianda/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gigarazkiarianda" />
+</a>
+<a href="https://github.com/giagrazkiarianda/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gigarazkiarianda&layout=compact&langs_count=8&card_width=320" />
+</a>
 
                                                                                          
 💻 Tech Stack 
