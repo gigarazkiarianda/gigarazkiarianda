@@ -35,7 +35,7 @@ In the future I want to become a Software & Artificial Intelligence Engineer. ha
   </table>
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gigarazkiarianda&theme=dark&hide_border=true" alt="gigarazkiarianda's GitHub Stats" />
+
                                                                                          
 💻 Tech Stack 
 
