@@ -10,12 +10,8 @@
 
 
 
-<a href="https://github.com/gigarazkiarianda/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gigarazkiarianda" />
-</a>
-<a href="https://github.com/giagrazkiarianda/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gigarazkiarianda&layout=compact&langs_count=8&card_width=320" />
-</a>
+![gigarazkiarianda's Stats](https://github-readme-stats.vercel.app/api?username=gigarazkiarianda&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![gigarazkiarianda's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gigarazkiarianda&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Hai My name's Giga Razki Arianda 
 
@@ -39,6 +35,7 @@ In the future I want to become a Software & Artificial Intelligence Engineer. ha
   </table>
 </p>
 
+![gigarazkiarianda's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gigarazkiarianda&theme=vue-dark&hide_border=true)
                                                                                          
 💻 Tech Stack 
 
