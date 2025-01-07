@@ -12,8 +12,6 @@
 
 ![Gigarazkiarianda's GitHub stats](https://github-readme-stats.vercel.app/api?username=gigarazkiarianda&show_icons=true&theme=radical)
 
-![gigarazkiarianda's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gigarazkiarianda&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
 ## Hai My name's Giga Razki Arianda 
 
 In the future I want to become a Software & Artificial Intelligence Engineer. have great curiosity, can adapt, collaborate, work in a team and be able to solve problems. The languages ​​that are often used are Python for the field of Artificial Intelligence and ReactJS or React Native for website or mobile development.
