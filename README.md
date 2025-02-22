@@ -9,8 +9,7 @@
 
 
 
-
-![Gigarazkiarianda's GitHub stats](https://github-readme-stats.vercel.app/api?username=gigarazkiarianda&show_icons=true&theme=radical)
+![gigarazkiarianda's Stats](https://github-readme-stats.vercel.app/api?username=gigarazkiarianda&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## Hai My name's Giga Razki Arianda 
 
@@ -34,7 +33,7 @@ In the future I want to become a Software & Artificial Intelligence Engineer. ha
   </table>
 </p>
 
-
+![gigarazkiarianda's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gigarazkiarianda&theme=vue-dark&hide_border=true)
                                                                                          
 💻 Tech Stack 
 
@@ -84,7 +83,7 @@ Project Manager
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
-
+![gigarazkiarianda's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gigarazkiarianda&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
            
 🏆 Github Trophies 
 
