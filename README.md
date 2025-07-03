@@ -2,7 +2,7 @@
 
 ## Hai My name's Giga Razki Arianda 
 
-In the future I want to become a Software & Artificial Intelligence Engineer. have great curiosity, can adapt, collaborate, work in a team and be able to solve problems. The languages ​​that are often used are Python for the field of Artificial Intelligence and ReactJS or React Native for website or mobile development.
+As a Software Engineer with under a year of experience in Web Development and Artificial Intelligence, I am passionate about coding and problem-solving. This drive has led me to explore various programming languages and frameworks, always seeking opportunities to grow my skills and expertise. I thrive on tackling new challenges and enjoy collaborating with others to develop innovative solutions that positively impact the tech industry.
            
 🏆 Github Trophies 
 
