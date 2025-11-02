@@ -2,7 +2,7 @@
 
 ## Hai My name's Giga Razki Arianda 
 
-As a Software Engineer with under a year of experience in Web Development and Artificial Intelligence, I am passionate about coding and problem-solving. This drive has led me to explore various programming languages and frameworks, always seeking opportunities to grow my skills and expertise. I thrive on tackling new challenges and enjoy collaborating with others to develop innovative solutions that positively impact the tech industry.
+As a Software Engineer with 1 year of experience in Web Development, I am passionate about coding and problem-solving. This drive has led me to explore various programming languages and frameworks, consistently seeking opportunities to grow my skills and expertise. I thrive on tackling new challenges and enjoy collaborating with others to develop innovative solutions that make a positive impact in the tech industry.
            
 🏆 Github Trophies 
 
