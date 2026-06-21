@@ -1,8 +1,9 @@
-![Banner - Giga Razki Arianda](https://github.com/gigarazkiarianda/gigarazkiarianda/assets/75737741/0f107bc3-d5ce-4a8a-9d85-04b67c0c0cae)
+![Banner - Giga Razki Arianda]<img width="2048" height="768" alt="ChatGPT Image Jun 21, 2026, 07_42_33 AM" src="https://github.com/user-attachments/assets/cb6fb880-aa89-4889-b8ec-cfe47f3eb6b5" />
+
 
 ## Hai My name's Giga Razki Arianda 
 
-As a Software Engineer with 1 year of experience in Web Development, I am passionate about coding and problem-solving. This drive has led me to explore various programming languages and frameworks, consistently seeking opportunities to grow my skills and expertise. I thrive on tackling new challenges and enjoy collaborating with others to develop innovative solutions that make a positive impact in the tech industry.
+As a Software Engineer with 1.9 years of experience in Web Development, I am passionate about coding and problem-solving. This drive has led me to explore various programming languages and frameworks, consistently seeking opportunities to grow my skills and expertise. I thrive on tackling new challenges and enjoy collaborating with others to develop innovative solutions that make a positive impact in the tech industry. 🚀
            
 🏆 Github Trophies 
 
