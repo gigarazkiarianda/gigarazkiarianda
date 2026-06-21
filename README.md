@@ -1,4 +1,4 @@
-![Banner - Giga Razki Arianda]<img width="2048" height="768" alt="ChatGPT Image Jun 21, 2026, 07_42_33 AM" src="https://github.com/user-attachments/assets/cb6fb880-aa89-4889-b8ec-cfe47f3eb6b5" />
+<img width="2048" height="768" alt="ChatGPT Image Jun 21, 2026, 07_42_33 AM" src="https://github.com/user-attachments/assets/cb6fb880-aa89-4889-b8ec-cfe47f3eb6b5" />
 
 
 ## Hai My name's Giga Razki Arianda 
